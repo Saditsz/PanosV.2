@@ -1,2 +1,3 @@
 # PanosV.2
-PanosV.2 is bot discord that make to be bot for my server AKANEMI, so you can see my folders and files for education
+Copyright (c) 2026 Pang. All Rights Reserved.
+This project is created for educational and portfolio purposes. Unauthorized copying, modification, distribution, or commercial use of this code or its assets is strictly prohibited.
